@@ -60,18 +60,4 @@ Relationships are built on keys such as `ProductID`, `SupplierID`, `OrderID`, an
 
 ---
 
-## 🎥 Demo Video
-A walkthrough of the project dashboard is available on YouTube:  
-👉 [Supply Chain Analysis – Power BI Dashboard](https://www.youtube.com/watch?v=Gu583PXJDpY)
-
----
-
-## 📬 Contact
-**Author:** Rohan Kumar  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [Your LinkedIn Profile]  
-
----
-
-*This Power BI project was developed for academic and analytical purposes to demonstrate data-driven supply chain optimization.*
 
